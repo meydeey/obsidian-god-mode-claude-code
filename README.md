@@ -57,8 +57,8 @@ C'est **lent par design**. Lancer en full auto sur 500 pages sans checkpoint, c'
 
 Si tu veux apprendre à absorber l'IA dans ton business (ou à la facturer à des clients), j'ai monté **LE LABO IA** : un programme pour solo-preneurs et indépendants qui veulent transformer l'IA en avantage concurrentiel concret.
 
-- Rejoindre : [lelaboia.com](https://lelaboia.com)
-- Skool gratuit : [skool.com/le-labo-ia](https://www.skool.com/le-labo-ia)
+- Rejoindre : [meydeey.com/labo](https://meydeey.com/labo)
+- Skool gratuit : [skool.com/automatisations-ia-gratuit-1412](https://www.skool.com/automatisations-ia-gratuit-1412/about)
 - Chaîne YouTube : [@meydeey](https://youtube.com/@meydeey)
 
 ---

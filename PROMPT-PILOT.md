@@ -364,6 +364,6 @@ Go.
 
 ## Crédits
 
-Prompt créé par **[LE LABO IA](https://lelaboia.com)** et **[@meydeey](https://youtube.com/@meydeey)**. Pattern inspiré d'Andrej Karpathy (co-fondateur OpenAI). Retrouve la vidéo qui explique la méthode sur YouTube.
+Prompt créé par **[LE LABO IA](https://meydeey.com/labo)** et **[@meydeey](https://youtube.com/@meydeey)**. Pattern inspiré d'Andrej Karpathy (co-fondateur OpenAI). Retrouve la vidéo qui explique la méthode sur YouTube.
 
 Licence MIT. Fais-en ce que tu veux.

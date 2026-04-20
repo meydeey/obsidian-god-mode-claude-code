@@ -281,5 +281,5 @@ Le prompt de production n'est **pas fourni ici volontairement** : il doit être 
 ## Besoin d'aide ?
 
 - Chaîne YouTube : [@meydeey](https://youtube.com/@meydeey)
-- Skool gratuit : [skool.com/le-labo-ia](https://www.skool.com/le-labo-ia)
-- Programme complet : [lelaboia.com](https://lelaboia.com)
+- Skool gratuit : [skool.com/automatisations-ia-gratuit-1412](https://www.skool.com/automatisations-ia-gratuit-1412/about)
+- Programme complet : [meydeey.com/labo](https://meydeey.com/labo)
