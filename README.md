@@ -1,5 +1,9 @@
 # Obsidian God Mode avec Claude Code
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-E8C872.svg)](./LICENSE)
+[![Made by LE LABO IA](https://img.shields.io/badge/made%20by-LE%20LABO%20IA-7084FF.svg)](https://meydeey.com/labo)
+[![YouTube @meydeey](https://img.shields.io/badge/youtube-@meydeey-FF0000.svg)](https://youtube.com/@meydeey)
+
 > Transforme Claude Code en générateur autonome de knowledge vault Obsidian. Tu donnes un sujet, il construit pour toi une base interconnectée de centaines de pages, avec clusters, wikilinks, fact-check WebSearch et graphe Obsidian navigable.
 
 **Pattern Karpathy** : arrêter de refaire du RAG jetable à chaque requête. Laisser le LLM compiler une fois pour toutes un wiki structuré qui compound dans le temps.
